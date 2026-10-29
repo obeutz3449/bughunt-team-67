@@ -1,6 +1,6 @@
-# Test Cases: [Your First Name Last Initial]
+# Test Cases: [Raquel R]
 
-**Team number:** [XX]
+**Team number:** [67]
 
 <!--
 HOW TO USE THIS FILE
@@ -14,7 +14,7 @@ HOW TO USE THIS FILE
 
 ---
 
-**Test ID:**
+**Test ID:** TC-1
 **Written by:**
 **Title:**
 **Traces to:**
