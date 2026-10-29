@@ -55,3 +55,26 @@ Vote for Vampire Accountant
 **V or V:** Verification
 
 ---
+
+**Test ID:** OTC-3
+**Written by:** Oliver Beutz
+**Title:** Passwords can be fewer than 8 characters 
+**Traces to:** REQ-01
+**Test type:** Security
+**Preconditions:** Register account usernmae `e` password `1234` On the Login page
+**Test data:**
+Allows account `e` to be created
+
+**Steps:**
+1. Navigate to Log In/Regsister Page
+2. Type username `e` and password `1234`
+3. Press create account
+
+**Expected result:** returns `Password is too short.`
+**Actual result:** returns `Account created! You can log in now.`
+**Status:**
+**Severity:**
+**V or V:**
+
+---
+
