@@ -34,3 +34,24 @@ Vote for Vampire Accountant
 **V or V:** Verification
 
 ---
+
+**Test ID:** OTC-2
+**Written by:** Oliver Beutz
+**Title:** Voting open before party
+**Traces to:** G1
+**Test type:** Security
+**Preconditions:** Logged in as `ghost_gary` (password `boo12345`). On the Vote page.
+**Test data:**
+Vote for Vampire Accountant
+
+**Steps:**
+1. Open the vote page
+2. Vote for Vampire accounant
+
+**Expected result:** Vote page not open yet
+**Actual result:** Vote goes through
+**Status:** Fail
+**Severity:** Major
+**V or V:** Verification
+
+---
