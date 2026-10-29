@@ -14,44 +14,23 @@ HOW TO USE THIS FILE
 
 ---
 
-**Test ID:**
-**Written by:**
-**Title:**
-**Traces to:**
-**Test type:** (Unit / Integration / System / Acceptance / Boundary Value / Negative / Security)
-**Preconditions:**
+**Test ID:** OTC-1
+**Written by:** Oliver Beutz
+**Title:** You can vote for your own
+**Traces to:** REQ-09
+**Test type:** Security
+**Preconditions:** Logged in as `ghost_gary` (password `boo12345`). On the Vote page.
 **Test data:**
+Vote for Vampire Accountant
 
 **Steps:**
-1.
-2.
-3.
+1. Open the vote page
+2. Vote for Vampire accounant
 
-**Expected result:**
-**Actual result:**
-**Status:** (Pass / Fail)
-**Severity:** (Critical / Major / Minor, Fail only)
-**V or V:** (Verification / Validation, Fail only)
-
----
-
-**Test ID:**
-**Written by:**
-**Title:**
-**Traces to:**
-**Test type:**
-**Preconditions:**
-**Test data:**
-
-**Steps:**
-1.
-2.
-3.
-
-**Expected result:**
-**Actual result:**
-**Status:**
-**Severity:**
-**V or V:**
+**Expected result:** It does not change
+**Actual result:** The votes changes
+**Status:** Fail
+**Severity:** Major
+**V or V:** Verification
 
 ---
