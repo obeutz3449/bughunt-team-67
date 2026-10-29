@@ -1,6 +1,6 @@
-# Test Cases: [Raquel R]
+# Test Cases: [Your First Name Last Initial]
 
-**Team number:** [67]
+**Team number:** [XX]
 
 <!--
 HOW TO USE THIS FILE
@@ -14,26 +14,44 @@ HOW TO USE THIS FILE
 
 ---
 
-**Test ID:** TC-1
-**Written by:** Raquel
-**Title:** Leadboard-shows-wrong-results
-**Traces to:** REQ 7
-**Test type:** Integration
-**Preconditions:** ?
-**Test data:** 
-Votes:
-Vampire account shows the more vote: 211 but is on the second place.
+**Test ID:**
+**Written by:**
+**Title:**
+**Traces to:**
+**Test type:** (Unit / Integration / System / Acceptance / Boundary Value / Negative / Security)
+**Preconditions:**
+**Test data:**
 
 **Steps:**
-1. Vote
-2. Check votes for Vampitre account
-3. Check Leadboar
+1.
+2.
+3.
 
-**Expected result:** Vampire account is the firs.
-**Actual result:** Vampires is second
-**Status:** Fail
-**Severity:**  Major
-**V or V:** (Verification Validation
+**Expected result:**
+**Actual result:**
+**Status:** (Pass / Fail)
+**Severity:** (Critical / Major / Minor, Fail only)
+**V or V:** (Verification / Validation, Fail only)
 
---
+---
+
+**Test ID:**
+**Written by:**
+**Title:**
+**Traces to:**
+**Test type:**
+**Preconditions:**
+**Test data:**
+
+**Steps:**
+1.
+2.
+3.
+
+**Expected result:**
+**Actual result:**
+**Status:**
+**Severity:**
+**V or V:**
+
 ---
